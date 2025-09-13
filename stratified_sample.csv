@@ -1,0 +1,1003 @@
+store_id,format,region,monthly_sales,stratum,stratum_pop,stratum_sample_size
+3395,Convenience,East,136486,Convenience_East,742,37
+5339,Convenience,East,94888,Convenience_East,742,37
+8918,Convenience,East,33040,Convenience_East,742,37
+15309,Convenience,East,98453,Convenience_East,742,37
+10307,Convenience,East,55608,Convenience_East,742,37
+15524,Convenience,East,25323,Convenience_East,742,37
+2208,Convenience,East,16242,Convenience_East,742,37
+16714,Convenience,East,39061,Convenience_East,742,37
+12023,Convenience,East,27870,Convenience_East,742,37
+9978,Convenience,East,67756,Convenience_East,742,37
+10843,Convenience,East,45778,Convenience_East,742,37
+8715,Convenience,East,60975,Convenience_East,742,37
+19858,Convenience,East,18097,Convenience_East,742,37
+10580,Convenience,East,95725,Convenience_East,742,37
+4124,Convenience,East,36130,Convenience_East,742,37
+9421,Convenience,East,52648,Convenience_East,742,37
+2305,Convenience,East,36426,Convenience_East,742,37
+4643,Convenience,East,35077,Convenience_East,742,37
+2821,Convenience,East,11937,Convenience_East,742,37
+1149,Convenience,East,24695,Convenience_East,742,37
+15221,Convenience,East,47918,Convenience_East,742,37
+9034,Convenience,East,31067,Convenience_East,742,37
+6672,Convenience,East,26933,Convenience_East,742,37
+11565,Convenience,East,74132,Convenience_East,742,37
+16800,Convenience,East,42900,Convenience_East,742,37
+11358,Convenience,East,11870,Convenience_East,742,37
+5853,Convenience,East,81740,Convenience_East,742,37
+7681,Convenience,East,61383,Convenience_East,742,37
+11405,Convenience,East,54665,Convenience_East,742,37
+18047,Convenience,East,6096,Convenience_East,742,37
+2219,Convenience,East,17995,Convenience_East,742,37
+5461,Convenience,East,11672,Convenience_East,742,37
+7759,Convenience,East,50222,Convenience_East,742,37
+11200,Convenience,East,51206,Convenience_East,742,37
+2245,Convenience,East,48425,Convenience_East,742,37
+1866,Convenience,East,31443,Convenience_East,742,37
+9628,Convenience,East,56895,Convenience_East,742,37
+18828,Convenience,North,15920,Convenience_North,753,38
+16778,Convenience,North,17031,Convenience_North,753,38
+10011,Convenience,North,76444,Convenience_North,753,38
+2075,Convenience,North,37930,Convenience_North,753,38
+5607,Convenience,North,80149,Convenience_North,753,38
+15129,Convenience,North,12257,Convenience_North,753,38
+14738,Convenience,North,1291,Convenience_North,753,38
+6707,Convenience,North,26656,Convenience_North,753,38
+7970,Convenience,North,43907,Convenience_North,753,38
+18057,Convenience,North,15573,Convenience_North,753,38
+13555,Convenience,North,4017,Convenience_North,753,38
+17920,Convenience,North,17974,Convenience_North,753,38
+9303,Convenience,North,61058,Convenience_North,753,38
+18953,Convenience,North,42944,Convenience_North,753,38
+15869,Convenience,North,39078,Convenience_North,753,38
+2886,Convenience,North,38050,Convenience_North,753,38
+13911,Convenience,North,12995,Convenience_North,753,38
+14109,Convenience,North,47793,Convenience_North,753,38
+2785,Convenience,North,9386,Convenience_North,753,38
+5148,Convenience,North,80552,Convenience_North,753,38
+12394,Convenience,North,30047,Convenience_North,753,38
+10617,Convenience,North,24158,Convenience_North,753,38
+10300,Convenience,North,46957,Convenience_North,753,38
+14237,Convenience,North,64370,Convenience_North,753,38
+9784,Convenience,North,21302,Convenience_North,753,38
+1061,Convenience,North,45033,Convenience_North,753,38
+15777,Convenience,North,21404,Convenience_North,753,38
+5583,Convenience,North,12187,Convenience_North,753,38
+11602,Convenience,North,89475,Convenience_North,753,38
+4089,Convenience,North,78120,Convenience_North,753,38
+3292,Convenience,North,31319,Convenience_North,753,38
+10930,Convenience,North,35722,Convenience_North,753,38
+12949,Convenience,North,19947,Convenience_North,753,38
+5755,Convenience,North,11546,Convenience_North,753,38
+19964,Convenience,North,144117,Convenience_North,753,38
+14958,Convenience,North,50304,Convenience_North,753,38
+3006,Convenience,North,64055,Convenience_North,753,38
+16948,Convenience,North,88138,Convenience_North,753,38
+15036,Convenience,South,80008,Convenience_South,777,39
+14209,Convenience,South,37056,Convenience_South,777,39
+15839,Convenience,South,10334,Convenience_South,777,39
+2735,Convenience,South,32468,Convenience_South,777,39
+15390,Convenience,South,114695,Convenience_South,777,39
+5663,Convenience,South,40644,Convenience_South,777,39
+13864,Convenience,South,6984,Convenience_South,777,39
+10361,Convenience,South,42106,Convenience_South,777,39
+12986,Convenience,South,42523,Convenience_South,777,39
+12638,Convenience,South,63737,Convenience_South,777,39
+16095,Convenience,South,201422,Convenience_South,777,39
+1893,Convenience,South,38102,Convenience_South,777,39
+9530,Convenience,South,18909,Convenience_South,777,39
+9694,Convenience,South,11517,Convenience_South,777,39
+9690,Convenience,South,9064,Convenience_South,777,39
+17850,Convenience,South,75115,Convenience_South,777,39
+13682,Convenience,South,58259,Convenience_South,777,39
+1481,Convenience,South,16842,Convenience_South,777,39
+16088,Convenience,South,27543,Convenience_South,777,39
+1565,Convenience,South,35038,Convenience_South,777,39
+2063,Convenience,South,65007,Convenience_South,777,39
+18960,Convenience,South,14899,Convenience_South,777,39
+15316,Convenience,South,18158,Convenience_South,777,39
+15679,Convenience,South,49040,Convenience_South,777,39
+646,Convenience,South,40910,Convenience_South,777,39
+9465,Convenience,South,49081,Convenience_South,777,39
+1912,Convenience,South,25350,Convenience_South,777,39
+11711,Convenience,South,142518,Convenience_South,777,39
+12584,Convenience,South,44184,Convenience_South,777,39
+13369,Convenience,South,14092,Convenience_South,777,39
+4727,Convenience,South,36248,Convenience_South,777,39
+19772,Convenience,South,72028,Convenience_South,777,39
+16226,Convenience,South,23079,Convenience_South,777,39
+6921,Convenience,South,32743,Convenience_South,777,39
+11438,Convenience,South,45903,Convenience_South,777,39
+8944,Convenience,South,32456,Convenience_South,777,39
+6955,Convenience,South,54639,Convenience_South,777,39
+13929,Convenience,South,54746,Convenience_South,777,39
+14572,Convenience,South,23516,Convenience_South,777,39
+9166,Convenience,West,25845,Convenience_West,724,36
+14444,Convenience,West,11973,Convenience_West,724,36
+15822,Convenience,West,51065,Convenience_West,724,36
+800,Convenience,West,39545,Convenience_West,724,36
+10364,Convenience,West,34294,Convenience_West,724,36
+19976,Convenience,West,13869,Convenience_West,724,36
+1642,Convenience,West,90688,Convenience_West,724,36
+3133,Convenience,West,35750,Convenience_West,724,36
+7248,Convenience,West,54504,Convenience_West,724,36
+13612,Convenience,West,27941,Convenience_West,724,36
+10028,Convenience,West,19817,Convenience_West,724,36
+1859,Convenience,West,464,Convenience_West,724,36
+10841,Convenience,West,35301,Convenience_West,724,36
+1635,Convenience,West,23126,Convenience_West,724,36
+17421,Convenience,West,70028,Convenience_West,724,36
+10931,Convenience,West,36769,Convenience_West,724,36
+11661,Convenience,West,41071,Convenience_West,724,36
+11642,Convenience,West,23395,Convenience_West,724,36
+5468,Convenience,West,30001,Convenience_West,724,36
+19633,Convenience,West,15981,Convenience_West,724,36
+2871,Convenience,West,13978,Convenience_West,724,36
+870,Convenience,West,47280,Convenience_West,724,36
+10652,Convenience,West,56686,Convenience_West,724,36
+2187,Convenience,West,16657,Convenience_West,724,36
+2120,Convenience,West,14600,Convenience_West,724,36
+11944,Convenience,West,16227,Convenience_West,724,36
+19125,Convenience,West,56271,Convenience_West,724,36
+16974,Convenience,West,6643,Convenience_West,724,36
+8491,Convenience,West,14148,Convenience_West,724,36
+187,Convenience,West,25429,Convenience_West,724,36
+1430,Convenience,West,30038,Convenience_West,724,36
+2121,Convenience,West,53264,Convenience_West,724,36
+6648,Convenience,West,9892,Convenience_West,724,36
+6772,Convenience,West,98872,Convenience_West,724,36
+19972,Convenience,West,33298,Convenience_West,724,36
+8863,Convenience,West,4353,Convenience_West,724,36
+2103,Kirana,East,4959,Kirana_East,3013,151
+15521,Kirana,East,22410,Kirana_East,3013,151
+9757,Kirana,East,66212,Kirana_East,3013,151
+18221,Kirana,East,17705,Kirana_East,3013,151
+15206,Kirana,East,27969,Kirana_East,3013,151
+2434,Kirana,East,83626,Kirana_East,3013,151
+5346,Kirana,East,38426,Kirana_East,3013,151
+15601,Kirana,East,73696,Kirana_East,3013,151
+6077,Kirana,East,65363,Kirana_East,3013,151
+3263,Kirana,East,25835,Kirana_East,3013,151
+9294,Kirana,East,30112,Kirana_East,3013,151
+8776,Kirana,East,42090,Kirana_East,3013,151
+18822,Kirana,East,40070,Kirana_East,3013,151
+596,Kirana,East,21343,Kirana_East,3013,151
+12466,Kirana,East,27217,Kirana_East,3013,151
+2651,Kirana,East,48750,Kirana_East,3013,151
+12180,Kirana,East,90363,Kirana_East,3013,151
+831,Kirana,East,31230,Kirana_East,3013,151
+13332,Kirana,East,66826,Kirana_East,3013,151
+294,Kirana,East,16055,Kirana_East,3013,151
+635,Kirana,East,34734,Kirana_East,3013,151
+4047,Kirana,East,73171,Kirana_East,3013,151
+339,Kirana,East,20201,Kirana_East,3013,151
+3322,Kirana,East,22582,Kirana_East,3013,151
+7176,Kirana,East,43561,Kirana_East,3013,151
+3139,Kirana,East,76430,Kirana_East,3013,151
+3989,Kirana,East,81859,Kirana_East,3013,151
+411,Kirana,East,1495,Kirana_East,3013,151
+12134,Kirana,East,93300,Kirana_East,3013,151
+1927,Kirana,East,112309,Kirana_East,3013,151
+3824,Kirana,East,84848,Kirana_East,3013,151
+16933,Kirana,East,133207,Kirana_East,3013,151
+1808,Kirana,East,24039,Kirana_East,3013,151
+19574,Kirana,East,35376,Kirana_East,3013,151
+15693,Kirana,East,9678,Kirana_East,3013,151
+15829,Kirana,East,17576,Kirana_East,3013,151
+3695,Kirana,East,7732,Kirana_East,3013,151
+6736,Kirana,East,75930,Kirana_East,3013,151
+13187,Kirana,East,84246,Kirana_East,3013,151
+16685,Kirana,East,9671,Kirana_East,3013,151
+15454,Kirana,East,85894,Kirana_East,3013,151
+4022,Kirana,East,63018,Kirana_East,3013,151
+11922,Kirana,East,81270,Kirana_East,3013,151
+6613,Kirana,East,23679,Kirana_East,3013,151
+9571,Kirana,East,68253,Kirana_East,3013,151
+10272,Kirana,East,42760,Kirana_East,3013,151
+11343,Kirana,East,102174,Kirana_East,3013,151
+15137,Kirana,East,14454,Kirana_East,3013,151
+4926,Kirana,East,41510,Kirana_East,3013,151
+8166,Kirana,East,19160,Kirana_East,3013,151
+3462,Kirana,East,100275,Kirana_East,3013,151
+7664,Kirana,East,52145,Kirana_East,3013,151
+10873,Kirana,East,18280,Kirana_East,3013,151
+1466,Kirana,East,19356,Kirana_East,3013,151
+1750,Kirana,East,42570,Kirana_East,3013,151
+16370,Kirana,East,16825,Kirana_East,3013,151
+1238,Kirana,East,85131,Kirana_East,3013,151
+3852,Kirana,East,62152,Kirana_East,3013,151
+14534,Kirana,East,30330,Kirana_East,3013,151
+1770,Kirana,East,53741,Kirana_East,3013,151
+4319,Kirana,East,28108,Kirana_East,3013,151
+3881,Kirana,East,7464,Kirana_East,3013,151
+13680,Kirana,East,90463,Kirana_East,3013,151
+19965,Kirana,East,11918,Kirana_East,3013,151
+69,Kirana,East,28506,Kirana_East,3013,151
+19734,Kirana,East,12587,Kirana_East,3013,151
+3692,Kirana,East,9444,Kirana_East,3013,151
+11490,Kirana,East,41480,Kirana_East,3013,151
+14964,Kirana,East,55709,Kirana_East,3013,151
+3580,Kirana,East,43165,Kirana_East,3013,151
+19453,Kirana,East,8644,Kirana_East,3013,151
+3255,Kirana,East,5560,Kirana_East,3013,151
+9949,Kirana,East,33411,Kirana_East,3013,151
+13983,Kirana,East,69039,Kirana_East,3013,151
+5441,Kirana,East,29490,Kirana_East,3013,151
+1315,Kirana,East,18310,Kirana_East,3013,151
+327,Kirana,East,70393,Kirana_East,3013,151
+2298,Kirana,East,5574,Kirana_East,3013,151
+19603,Kirana,East,30651,Kirana_East,3013,151
+10150,Kirana,East,79921,Kirana_East,3013,151
+9266,Kirana,East,7512,Kirana_East,3013,151
+8807,Kirana,East,32885,Kirana_East,3013,151
+3522,Kirana,East,67792,Kirana_East,3013,151
+9181,Kirana,East,43771,Kirana_East,3013,151
+18891,Kirana,East,8314,Kirana_East,3013,151
+9536,Kirana,East,10895,Kirana_East,3013,151
+18094,Kirana,East,27689,Kirana_East,3013,151
+5160,Kirana,East,63439,Kirana_East,3013,151
+4791,Kirana,East,26370,Kirana_East,3013,151
+4613,Kirana,East,39553,Kirana_East,3013,151
+12489,Kirana,East,58961,Kirana_East,3013,151
+1129,Kirana,East,29641,Kirana_East,3013,151
+17695,Kirana,East,85977,Kirana_East,3013,151
+4807,Kirana,East,3933,Kirana_East,3013,151
+8738,Kirana,East,17027,Kirana_East,3013,151
+2386,Kirana,East,42391,Kirana_East,3013,151
+15649,Kirana,East,65876,Kirana_East,3013,151
+15418,Kirana,East,26095,Kirana_East,3013,151
+6341,Kirana,East,61697,Kirana_East,3013,151
+16187,Kirana,East,8261,Kirana_East,3013,151
+5103,Kirana,East,70468,Kirana_East,3013,151
+14131,Kirana,East,7612,Kirana_East,3013,151
+18870,Kirana,East,44241,Kirana_East,3013,151
+12945,Kirana,East,10930,Kirana_East,3013,151
+7699,Kirana,East,22318,Kirana_East,3013,151
+9793,Kirana,East,34290,Kirana_East,3013,151
+1292,Kirana,East,42997,Kirana_East,3013,151
+1128,Kirana,East,38514,Kirana_East,3013,151
+860,Kirana,East,14965,Kirana_East,3013,151
+15537,Kirana,East,21717,Kirana_East,3013,151
+15440,Kirana,East,35360,Kirana_East,3013,151
+7432,Kirana,East,26431,Kirana_East,3013,151
+11115,Kirana,East,27016,Kirana_East,3013,151
+12234,Kirana,East,43539,Kirana_East,3013,151
+6085,Kirana,East,115835,Kirana_East,3013,151
+2095,Kirana,East,34892,Kirana_East,3013,151
+6056,Kirana,East,3776,Kirana_East,3013,151
+11897,Kirana,East,7112,Kirana_East,3013,151
+13112,Kirana,East,25363,Kirana_East,3013,151
+3875,Kirana,East,13759,Kirana_East,3013,151
+11799,Kirana,East,31334,Kirana_East,3013,151
+15357,Kirana,East,38263,Kirana_East,3013,151
+19912,Kirana,East,82453,Kirana_East,3013,151
+15923,Kirana,East,71829,Kirana_East,3013,151
+1372,Kirana,East,8640,Kirana_East,3013,151
+6,Kirana,East,69573,Kirana_East,3013,151
+14108,Kirana,East,57034,Kirana_East,3013,151
+18698,Kirana,East,54529,Kirana_East,3013,151
+295,Kirana,East,16440,Kirana_East,3013,151
+17038,Kirana,East,20942,Kirana_East,3013,151
+11464,Kirana,East,66470,Kirana_East,3013,151
+9417,Kirana,East,62604,Kirana_East,3013,151
+8421,Kirana,East,65520,Kirana_East,3013,151
+12709,Kirana,East,12287,Kirana_East,3013,151
+19131,Kirana,East,11119,Kirana_East,3013,151
+9718,Kirana,East,45927,Kirana_East,3013,151
+11274,Kirana,East,72257,Kirana_East,3013,151
+5300,Kirana,East,47032,Kirana_East,3013,151
+18575,Kirana,East,34421,Kirana_East,3013,151
+8189,Kirana,East,28111,Kirana_East,3013,151
+17423,Kirana,East,29834,Kirana_East,3013,151
+13771,Kirana,East,23932,Kirana_East,3013,151
+14346,Kirana,East,80273,Kirana_East,3013,151
+17833,Kirana,East,46810,Kirana_East,3013,151
+11430,Kirana,East,37401,Kirana_East,3013,151
+10949,Kirana,East,43656,Kirana_East,3013,151
+7705,Kirana,East,14203,Kirana_East,3013,151
+6353,Kirana,East,12964,Kirana_East,3013,151
+18268,Kirana,East,22034,Kirana_East,3013,151
+4281,Kirana,East,34839,Kirana_East,3013,151
+16575,Kirana,East,20794,Kirana_East,3013,151
+1922,Kirana,North,28267,Kirana_North,3051,153
+3517,Kirana,North,58873,Kirana_North,3051,153
+15992,Kirana,North,19818,Kirana_North,3051,153
+3550,Kirana,North,17378,Kirana_North,3051,153
+14883,Kirana,North,23262,Kirana_North,3051,153
+2309,Kirana,North,59998,Kirana_North,3051,153
+16737,Kirana,North,53064,Kirana_North,3051,153
+15065,Kirana,North,29296,Kirana_North,3051,153
+2809,Kirana,North,15369,Kirana_North,3051,153
+9030,Kirana,North,31542,Kirana_North,3051,153
+15227,Kirana,North,118616,Kirana_North,3051,153
+17558,Kirana,North,55384,Kirana_North,3051,153
+1752,Kirana,North,12921,Kirana_North,3051,153
+15369,Kirana,North,43048,Kirana_North,3051,153
+3450,Kirana,North,144723,Kirana_North,3051,153
+11109,Kirana,North,211296,Kirana_North,3051,153
+3801,Kirana,North,14429,Kirana_North,3051,153
+538,Kirana,North,30148,Kirana_North,3051,153
+1411,Kirana,North,56996,Kirana_North,3051,153
+4682,Kirana,North,86726,Kirana_North,3051,153
+10957,Kirana,North,24371,Kirana_North,3051,153
+13002,Kirana,North,27143,Kirana_North,3051,153
+17520,Kirana,North,26331,Kirana_North,3051,153
+2050,Kirana,North,24379,Kirana_North,3051,153
+3830,Kirana,North,13629,Kirana_North,3051,153
+1331,Kirana,North,68987,Kirana_North,3051,153
+13296,Kirana,North,48712,Kirana_North,3051,153
+9675,Kirana,North,79362,Kirana_North,3051,153
+11400,Kirana,North,21846,Kirana_North,3051,153
+17496,Kirana,North,54227,Kirana_North,3051,153
+4502,Kirana,North,10413,Kirana_North,3051,153
+5456,Kirana,North,19264,Kirana_North,3051,153
+12060,Kirana,North,95411,Kirana_North,3051,153
+2453,Kirana,North,19919,Kirana_North,3051,153
+4141,Kirana,North,27117,Kirana_North,3051,153
+19613,Kirana,North,28963,Kirana_North,3051,153
+17604,Kirana,North,50379,Kirana_North,3051,153
+6095,Kirana,North,32819,Kirana_North,3051,153
+16149,Kirana,North,39074,Kirana_North,3051,153
+15766,Kirana,North,36965,Kirana_North,3051,153
+11551,Kirana,North,36610,Kirana_North,3051,153
+9827,Kirana,North,62042,Kirana_North,3051,153
+15531,Kirana,North,57162,Kirana_North,3051,153
+14719,Kirana,North,28434,Kirana_North,3051,153
+7214,Kirana,North,24736,Kirana_North,3051,153
+12829,Kirana,North,45739,Kirana_North,3051,153
+2229,Kirana,North,5753,Kirana_North,3051,153
+13532,Kirana,North,33166,Kirana_North,3051,153
+1790,Kirana,North,37044,Kirana_North,3051,153
+2899,Kirana,North,112314,Kirana_North,3051,153
+18231,Kirana,North,42007,Kirana_North,3051,153
+2523,Kirana,North,17880,Kirana_North,3051,153
+2058,Kirana,North,110732,Kirana_North,3051,153
+380,Kirana,North,72304,Kirana_North,3051,153
+2934,Kirana,North,24395,Kirana_North,3051,153
+15493,Kirana,North,28563,Kirana_North,3051,153
+8720,Kirana,North,41665,Kirana_North,3051,153
+9272,Kirana,North,69431,Kirana_North,3051,153
+10976,Kirana,North,30492,Kirana_North,3051,153
+18043,Kirana,North,19545,Kirana_North,3051,153
+5355,Kirana,North,53184,Kirana_North,3051,153
+4324,Kirana,North,38036,Kirana_North,3051,153
+336,Kirana,North,15781,Kirana_North,3051,153
+3114,Kirana,North,73713,Kirana_North,3051,153
+1180,Kirana,North,86414,Kirana_North,3051,153
+3727,Kirana,North,118620,Kirana_North,3051,153
+19049,Kirana,North,27759,Kirana_North,3051,153
+19947,Kirana,North,26038,Kirana_North,3051,153
+15447,Kirana,North,26581,Kirana_North,3051,153
+14513,Kirana,North,37846,Kirana_North,3051,153
+5348,Kirana,North,27427,Kirana_North,3051,153
+5016,Kirana,North,47531,Kirana_North,3051,153
+16671,Kirana,North,12102,Kirana_North,3051,153
+2085,Kirana,North,59466,Kirana_North,3051,153
+813,Kirana,North,40757,Kirana_North,3051,153
+6292,Kirana,North,31020,Kirana_North,3051,153
+15508,Kirana,North,221254,Kirana_North,3051,153
+2385,Kirana,North,16805,Kirana_North,3051,153
+9695,Kirana,North,120352,Kirana_North,3051,153
+9667,Kirana,North,9080,Kirana_North,3051,153
+8099,Kirana,North,16462,Kirana_North,3051,153
+1377,Kirana,North,38580,Kirana_North,3051,153
+17380,Kirana,North,26006,Kirana_North,3051,153
+18532,Kirana,North,18848,Kirana_North,3051,153
+2529,Kirana,North,14552,Kirana_North,3051,153
+2172,Kirana,North,60728,Kirana_North,3051,153
+3413,Kirana,North,57091,Kirana_North,3051,153
+1804,Kirana,North,23295,Kirana_North,3051,153
+12896,Kirana,North,42960,Kirana_North,3051,153
+9053,Kirana,North,17028,Kirana_North,3051,153
+19946,Kirana,North,36342,Kirana_North,3051,153
+8895,Kirana,North,6261,Kirana_North,3051,153
+18844,Kirana,North,21767,Kirana_North,3051,153
+5768,Kirana,North,54590,Kirana_North,3051,153
+6389,Kirana,North,49096,Kirana_North,3051,153
+388,Kirana,North,49147,Kirana_North,3051,153
+7611,Kirana,North,20159,Kirana_North,3051,153
+1110,Kirana,North,8066,Kirana_North,3051,153
+4667,Kirana,North,11621,Kirana_North,3051,153
+16381,Kirana,North,40775,Kirana_North,3051,153
+3012,Kirana,North,79533,Kirana_North,3051,153
+11143,Kirana,North,25655,Kirana_North,3051,153
+4306,Kirana,North,52923,Kirana_North,3051,153
+1037,Kirana,North,43780,Kirana_North,3051,153
+8307,Kirana,North,17473,Kirana_North,3051,153
+16292,Kirana,North,90917,Kirana_North,3051,153
+9789,Kirana,North,6607,Kirana_North,3051,153
+10082,Kirana,North,17866,Kirana_North,3051,153
+19180,Kirana,North,20519,Kirana_North,3051,153
+4,Kirana,North,55992,Kirana_North,3051,153
+9856,Kirana,North,19927,Kirana_North,3051,153
+16541,Kirana,North,46339,Kirana_North,3051,153
+7416,Kirana,North,26673,Kirana_North,3051,153
+3604,Kirana,North,21470,Kirana_North,3051,153
+17638,Kirana,North,43492,Kirana_North,3051,153
+13547,Kirana,North,2512,Kirana_North,3051,153
+8146,Kirana,North,42490,Kirana_North,3051,153
+1899,Kirana,North,11601,Kirana_North,3051,153
+1727,Kirana,North,72713,Kirana_North,3051,153
+2753,Kirana,North,39880,Kirana_North,3051,153
+1309,Kirana,North,40380,Kirana_North,3051,153
+6442,Kirana,North,58092,Kirana_North,3051,153
+264,Kirana,North,38246,Kirana_North,3051,153
+13490,Kirana,North,62937,Kirana_North,3051,153
+15773,Kirana,North,39974,Kirana_North,3051,153
+101,Kirana,North,34853,Kirana_North,3051,153
+704,Kirana,North,29773,Kirana_North,3051,153
+3608,Kirana,North,27667,Kirana_North,3051,153
+9494,Kirana,North,6405,Kirana_North,3051,153
+1397,Kirana,North,49462,Kirana_North,3051,153
+5292,Kirana,North,144839,Kirana_North,3051,153
+1810,Kirana,North,79708,Kirana_North,3051,153
+17953,Kirana,North,82558,Kirana_North,3051,153
+7387,Kirana,North,60274,Kirana_North,3051,153
+17269,Kirana,North,2079,Kirana_North,3051,153
+14601,Kirana,North,102878,Kirana_North,3051,153
+3165,Kirana,North,44408,Kirana_North,3051,153
+2307,Kirana,North,14812,Kirana_North,3051,153
+17333,Kirana,North,1732,Kirana_North,3051,153
+9588,Kirana,North,16292,Kirana_North,3051,153
+14910,Kirana,North,49275,Kirana_North,3051,153
+13986,Kirana,North,17027,Kirana_North,3051,153
+11076,Kirana,North,20321,Kirana_North,3051,153
+1144,Kirana,North,19848,Kirana_North,3051,153
+14675,Kirana,North,40056,Kirana_North,3051,153
+12655,Kirana,North,164642,Kirana_North,3051,153
+8426,Kirana,North,29527,Kirana_North,3051,153
+12495,Kirana,North,79859,Kirana_North,3051,153
+5199,Kirana,North,78372,Kirana_North,3051,153
+13559,Kirana,North,42316,Kirana_North,3051,153
+13125,Kirana,North,46063,Kirana_North,3051,153
+19354,Kirana,North,20236,Kirana_North,3051,153
+12153,Kirana,North,10716,Kirana_North,3051,153
+5689,Kirana,South,20867,Kirana_South,2951,148
+1708,Kirana,South,79656,Kirana_South,2951,148
+18459,Kirana,South,43433,Kirana_South,2951,148
+16784,Kirana,South,21873,Kirana_South,2951,148
+19328,Kirana,South,24373,Kirana_South,2951,148
+18819,Kirana,South,20751,Kirana_South,2951,148
+7542,Kirana,South,7290,Kirana_South,2951,148
+8604,Kirana,South,24259,Kirana_South,2951,148
+16839,Kirana,South,48542,Kirana_South,2951,148
+9872,Kirana,South,18570,Kirana_South,2951,148
+4825,Kirana,South,35770,Kirana_South,2951,148
+11629,Kirana,South,63130,Kirana_South,2951,148
+6821,Kirana,South,14103,Kirana_South,2951,148
+10062,Kirana,South,32215,Kirana_South,2951,148
+19895,Kirana,South,37680,Kirana_South,2951,148
+4801,Kirana,South,12375,Kirana_South,2951,148
+6741,Kirana,South,18914,Kirana_South,2951,148
+8581,Kirana,South,15375,Kirana_South,2951,148
+1421,Kirana,South,48859,Kirana_South,2951,148
+9229,Kirana,South,2220,Kirana_South,2951,148
+4273,Kirana,South,24905,Kirana_South,2951,148
+4285,Kirana,South,18620,Kirana_South,2951,148
+7525,Kirana,South,6491,Kirana_South,2951,148
+9664,Kirana,South,66936,Kirana_South,2951,148
+11771,Kirana,South,31480,Kirana_South,2951,148
+15796,Kirana,South,12867,Kirana_South,2951,148
+7437,Kirana,South,57903,Kirana_South,2951,148
+18211,Kirana,South,67650,Kirana_South,2951,148
+3666,Kirana,South,34807,Kirana_South,2951,148
+1208,Kirana,South,26396,Kirana_South,2951,148
+11562,Kirana,South,9876,Kirana_South,2951,148
+8896,Kirana,South,42379,Kirana_South,2951,148
+2455,Kirana,South,3136,Kirana_South,2951,148
+19379,Kirana,South,41400,Kirana_South,2951,148
+4824,Kirana,South,55487,Kirana_South,2951,148
+3938,Kirana,South,18296,Kirana_South,2951,148
+622,Kirana,South,10027,Kirana_South,2951,148
+6803,Kirana,South,24863,Kirana_South,2951,148
+2242,Kirana,South,96319,Kirana_South,2951,148
+14068,Kirana,South,87258,Kirana_South,2951,148
+1764,Kirana,South,3696,Kirana_South,2951,148
+13339,Kirana,South,66574,Kirana_South,2951,148
+7862,Kirana,South,15335,Kirana_South,2951,148
+7189,Kirana,South,35120,Kirana_South,2951,148
+9399,Kirana,South,7655,Kirana_South,2951,148
+11687,Kirana,South,46719,Kirana_South,2951,148
+1791,Kirana,South,53205,Kirana_South,2951,148
+16145,Kirana,South,4977,Kirana_South,2951,148
+4129,Kirana,South,14935,Kirana_South,2951,148
+12275,Kirana,South,40835,Kirana_South,2951,148
+10574,Kirana,South,13964,Kirana_South,2951,148
+6534,Kirana,South,23017,Kirana_South,2951,148
+6809,Kirana,South,52038,Kirana_South,2951,148
+12160,Kirana,South,40587,Kirana_South,2951,148
+18686,Kirana,South,39216,Kirana_South,2951,148
+14843,Kirana,South,28538,Kirana_South,2951,148
+9966,Kirana,South,46449,Kirana_South,2951,148
+3934,Kirana,South,52176,Kirana_South,2951,148
+1330,Kirana,South,9192,Kirana_South,2951,148
+16494,Kirana,South,987,Kirana_South,2951,148
+2332,Kirana,South,10456,Kirana_South,2951,148
+7861,Kirana,South,56937,Kirana_South,2951,148
+15696,Kirana,South,12950,Kirana_South,2951,148
+8897,Kirana,South,34073,Kirana_South,2951,148
+15043,Kirana,South,16290,Kirana_South,2951,148
+7620,Kirana,South,60160,Kirana_South,2951,148
+7707,Kirana,South,20335,Kirana_South,2951,148
+8380,Kirana,South,75423,Kirana_South,2951,148
+13835,Kirana,South,19652,Kirana_South,2951,148
+11222,Kirana,South,57537,Kirana_South,2951,148
+15414,Kirana,South,16639,Kirana_South,2951,148
+8495,Kirana,South,18375,Kirana_South,2951,148
+17909,Kirana,South,23329,Kirana_South,2951,148
+19307,Kirana,South,69038,Kirana_South,2951,148
+15722,Kirana,South,27218,Kirana_South,2951,148
+828,Kirana,South,6886,Kirana_South,2951,148
+8024,Kirana,South,6178,Kirana_South,2951,148
+10847,Kirana,South,9849,Kirana_South,2951,148
+7355,Kirana,South,34424,Kirana_South,2951,148
+16877,Kirana,South,19607,Kirana_South,2951,148
+11297,Kirana,South,64982,Kirana_South,2951,148
+335,Kirana,South,33733,Kirana_South,2951,148
+5782,Kirana,South,27471,Kirana_South,2951,148
+14618,Kirana,South,33201,Kirana_South,2951,148
+5224,Kirana,South,30182,Kirana_South,2951,148
+19592,Kirana,South,47112,Kirana_South,2951,148
+4998,Kirana,South,63099,Kirana_South,2951,148
+8174,Kirana,South,62941,Kirana_South,2951,148
+18627,Kirana,South,39195,Kirana_South,2951,148
+17384,Kirana,South,81052,Kirana_South,2951,148
+11932,Kirana,South,43861,Kirana_South,2951,148
+12169,Kirana,South,8574,Kirana_South,2951,148
+1347,Kirana,South,43405,Kirana_South,2951,148
+8638,Kirana,South,24927,Kirana_South,2951,148
+13511,Kirana,South,12863,Kirana_South,2951,148
+16253,Kirana,South,13897,Kirana_South,2951,148
+16638,Kirana,South,11393,Kirana_South,2951,148
+13434,Kirana,South,62356,Kirana_South,2951,148
+683,Kirana,South,31977,Kirana_South,2951,148
+5529,Kirana,South,90208,Kirana_South,2951,148
+3401,Kirana,South,53541,Kirana_South,2951,148
+18426,Kirana,South,2470,Kirana_South,2951,148
+18527,Kirana,South,35257,Kirana_South,2951,148
+434,Kirana,South,85006,Kirana_South,2951,148
+6043,Kirana,South,24479,Kirana_South,2951,148
+9016,Kirana,South,58410,Kirana_South,2951,148
+18516,Kirana,South,23235,Kirana_South,2951,148
+11679,Kirana,South,4993,Kirana_South,2951,148
+4035,Kirana,South,7447,Kirana_South,2951,148
+10787,Kirana,South,51058,Kirana_South,2951,148
+13591,Kirana,South,25172,Kirana_South,2951,148
+10002,Kirana,South,57956,Kirana_South,2951,148
+11938,Kirana,South,18112,Kirana_South,2951,148
+7120,Kirana,South,22444,Kirana_South,2951,148
+13404,Kirana,South,76345,Kirana_South,2951,148
+11841,Kirana,South,67609,Kirana_South,2951,148
+15489,Kirana,South,59454,Kirana_South,2951,148
+15889,Kirana,South,30089,Kirana_South,2951,148
+9562,Kirana,South,29118,Kirana_South,2951,148
+11028,Kirana,South,21218,Kirana_South,2951,148
+2716,Kirana,South,55824,Kirana_South,2951,148
+4045,Kirana,South,15733,Kirana_South,2951,148
+14588,Kirana,South,37877,Kirana_South,2951,148
+17464,Kirana,South,12274,Kirana_South,2951,148
+16245,Kirana,South,17298,Kirana_South,2951,148
+3309,Kirana,South,21668,Kirana_South,2951,148
+10449,Kirana,South,25835,Kirana_South,2951,148
+3586,Kirana,South,19778,Kirana_South,2951,148
+3201,Kirana,South,79986,Kirana_South,2951,148
+5588,Kirana,South,17889,Kirana_South,2951,148
+11613,Kirana,South,50050,Kirana_South,2951,148
+13056,Kirana,South,27185,Kirana_South,2951,148
+18048,Kirana,South,76897,Kirana_South,2951,148
+10257,Kirana,South,46037,Kirana_South,2951,148
+7829,Kirana,South,27530,Kirana_South,2951,148
+4263,Kirana,South,99421,Kirana_South,2951,148
+9384,Kirana,South,35310,Kirana_South,2951,148
+13205,Kirana,South,6816,Kirana_South,2951,148
+19978,Kirana,South,12490,Kirana_South,2951,148
+17074,Kirana,South,18972,Kirana_South,2951,148
+12780,Kirana,South,24540,Kirana_South,2951,148
+8586,Kirana,South,34072,Kirana_South,2951,148
+14084,Kirana,South,74395,Kirana_South,2951,148
+16885,Kirana,South,17013,Kirana_South,2951,148
+19948,Kirana,South,72078,Kirana_South,2951,148
+2022,Kirana,South,61971,Kirana_South,2951,148
+9155,Kirana,South,16941,Kirana_South,2951,148
+2732,Kirana,South,70497,Kirana_South,2951,148
+11014,Kirana,West,35769,Kirana_West,3038,152
+15007,Kirana,West,16907,Kirana_West,3038,152
+2726,Kirana,West,20563,Kirana_West,3038,152
+15001,Kirana,West,54982,Kirana_West,3038,152
+18860,Kirana,West,43405,Kirana_West,3038,152
+1623,Kirana,West,26683,Kirana_West,3038,152
+6667,Kirana,West,19323,Kirana_West,3038,152
+7493,Kirana,West,10879,Kirana_West,3038,152
+709,Kirana,West,25000,Kirana_West,3038,152
+8674,Kirana,West,53386,Kirana_West,3038,152
+4040,Kirana,West,37412,Kirana_West,3038,152
+3047,Kirana,West,26725,Kirana_West,3038,152
+3342,Kirana,West,39192,Kirana_West,3038,152
+13936,Kirana,West,36319,Kirana_West,3038,152
+3416,Kirana,West,73198,Kirana_West,3038,152
+1096,Kirana,West,60709,Kirana_West,3038,152
+430,Kirana,West,13858,Kirana_West,3038,152
+1041,Kirana,West,109911,Kirana_West,3038,152
+13588,Kirana,West,53316,Kirana_West,3038,152
+9125,Kirana,West,65064,Kirana_West,3038,152
+9441,Kirana,West,8354,Kirana_West,3038,152
+11027,Kirana,West,24291,Kirana_West,3038,152
+3160,Kirana,West,62301,Kirana_West,3038,152
+1205,Kirana,West,46826,Kirana_West,3038,152
+5071,Kirana,West,27155,Kirana_West,3038,152
+17692,Kirana,West,7541,Kirana_West,3038,152
+2835,Kirana,West,26568,Kirana_West,3038,152
+17718,Kirana,West,18750,Kirana_West,3038,152
+2015,Kirana,West,25895,Kirana_West,3038,152
+1800,Kirana,West,10281,Kirana_West,3038,152
+7192,Kirana,West,22494,Kirana_West,3038,152
+19479,Kirana,West,9384,Kirana_West,3038,152
+8956,Kirana,West,25243,Kirana_West,3038,152
+302,Kirana,West,38271,Kirana_West,3038,152
+4341,Kirana,West,5807,Kirana_West,3038,152
+4456,Kirana,West,36527,Kirana_West,3038,152
+1793,Kirana,West,38816,Kirana_West,3038,152
+1253,Kirana,West,105983,Kirana_West,3038,152
+6631,Kirana,West,33685,Kirana_West,3038,152
+8422,Kirana,West,19021,Kirana_West,3038,152
+9479,Kirana,West,32108,Kirana_West,3038,152
+3499,Kirana,West,11269,Kirana_West,3038,152
+18173,Kirana,West,56802,Kirana_West,3038,152
+14899,Kirana,West,38230,Kirana_West,3038,152
+3385,Kirana,West,23989,Kirana_West,3038,152
+11607,Kirana,West,21864,Kirana_West,3038,152
+16040,Kirana,West,96129,Kirana_West,3038,152
+16316,Kirana,West,7839,Kirana_West,3038,152
+1965,Kirana,West,1469,Kirana_West,3038,152
+18369,Kirana,West,12112,Kirana_West,3038,152
+5508,Kirana,West,93914,Kirana_West,3038,152
+7828,Kirana,West,34739,Kirana_West,3038,152
+10620,Kirana,West,24383,Kirana_West,3038,152
+12722,Kirana,West,13835,Kirana_West,3038,152
+16666,Kirana,West,185944,Kirana_West,3038,152
+14684,Kirana,West,39542,Kirana_West,3038,152
+16250,Kirana,West,5686,Kirana_West,3038,152
+16590,Kirana,West,61189,Kirana_West,3038,152
+10570,Kirana,West,28870,Kirana_West,3038,152
+16938,Kirana,West,18197,Kirana_West,3038,152
+12879,Kirana,West,17075,Kirana_West,3038,152
+12863,Kirana,West,15025,Kirana_West,3038,152
+17883,Kirana,West,6106,Kirana_West,3038,152
+17877,Kirana,West,32632,Kirana_West,3038,152
+12685,Kirana,West,19939,Kirana_West,3038,152
+360,Kirana,West,65185,Kirana_West,3038,152
+899,Kirana,West,18494,Kirana_West,3038,152
+8803,Kirana,West,51305,Kirana_West,3038,152
+6005,Kirana,West,33423,Kirana_West,3038,152
+4953,Kirana,West,18350,Kirana_West,3038,152
+1536,Kirana,West,15057,Kirana_West,3038,152
+9652,Kirana,West,43920,Kirana_West,3038,152
+3334,Kirana,West,96483,Kirana_West,3038,152
+6074,Kirana,West,45127,Kirana_West,3038,152
+10365,Kirana,West,17489,Kirana_West,3038,152
+17128,Kirana,West,64952,Kirana_West,3038,152
+7054,Kirana,West,113395,Kirana_West,3038,152
+12420,Kirana,West,50512,Kirana_West,3038,152
+7,Kirana,West,72247,Kirana_West,3038,152
+13574,Kirana,West,42161,Kirana_West,3038,152
+5706,Kirana,West,43913,Kirana_West,3038,152
+9439,Kirana,West,20375,Kirana_West,3038,152
+4138,Kirana,West,12649,Kirana_West,3038,152
+9581,Kirana,West,20474,Kirana_West,3038,152
+12859,Kirana,West,78453,Kirana_West,3038,152
+6214,Kirana,West,48617,Kirana_West,3038,152
+2656,Kirana,West,83962,Kirana_West,3038,152
+930,Kirana,West,23906,Kirana_West,3038,152
+12838,Kirana,West,42120,Kirana_West,3038,152
+14764,Kirana,West,1909,Kirana_West,3038,152
+16102,Kirana,West,58648,Kirana_West,3038,152
+5909,Kirana,West,44407,Kirana_West,3038,152
+17356,Kirana,West,17339,Kirana_West,3038,152
+99,Kirana,West,102632,Kirana_West,3038,152
+626,Kirana,West,21665,Kirana_West,3038,152
+5360,Kirana,West,33696,Kirana_West,3038,152
+6315,Kirana,West,50343,Kirana_West,3038,152
+16818,Kirana,West,39431,Kirana_West,3038,152
+16265,Kirana,West,19340,Kirana_West,3038,152
+14636,Kirana,West,29976,Kirana_West,3038,152
+4997,Kirana,West,42408,Kirana_West,3038,152
+6566,Kirana,West,33895,Kirana_West,3038,152
+6903,Kirana,West,31520,Kirana_West,3038,152
+2681,Kirana,West,6958,Kirana_West,3038,152
+6489,Kirana,West,46525,Kirana_West,3038,152
+10204,Kirana,West,33600,Kirana_West,3038,152
+11211,Kirana,West,29867,Kirana_West,3038,152
+1115,Kirana,West,109138,Kirana_West,3038,152
+12528,Kirana,West,41070,Kirana_West,3038,152
+358,Kirana,West,23087,Kirana_West,3038,152
+2587,Kirana,West,23638,Kirana_West,3038,152
+5415,Kirana,West,19106,Kirana_West,3038,152
+216,Kirana,West,19204,Kirana_West,3038,152
+16826,Kirana,West,15984,Kirana_West,3038,152
+9686,Kirana,West,14204,Kirana_West,3038,152
+1953,Kirana,West,53286,Kirana_West,3038,152
+11293,Kirana,West,32794,Kirana_West,3038,152
+5547,Kirana,West,38015,Kirana_West,3038,152
+14347,Kirana,West,36782,Kirana_West,3038,152
+10096,Kirana,West,15032,Kirana_West,3038,152
+9516,Kirana,West,77379,Kirana_West,3038,152
+4846,Kirana,West,17482,Kirana_West,3038,152
+1026,Kirana,West,73760,Kirana_West,3038,152
+1561,Kirana,West,37068,Kirana_West,3038,152
+5409,Kirana,West,52595,Kirana_West,3038,152
+1549,Kirana,West,60606,Kirana_West,3038,152
+11998,Kirana,West,56192,Kirana_West,3038,152
+19078,Kirana,West,32511,Kirana_West,3038,152
+18943,Kirana,West,53529,Kirana_West,3038,152
+13607,Kirana,West,16801,Kirana_West,3038,152
+14031,Kirana,West,25808,Kirana_West,3038,152
+9641,Kirana,West,48690,Kirana_West,3038,152
+6924,Kirana,West,70469,Kirana_West,3038,152
+18675,Kirana,West,23006,Kirana_West,3038,152
+18102,Kirana,West,18939,Kirana_West,3038,152
+2068,Kirana,West,28138,Kirana_West,3038,152
+883,Kirana,West,31396,Kirana_West,3038,152
+9696,Kirana,West,53455,Kirana_West,3038,152
+19121,Kirana,West,23451,Kirana_West,3038,152
+17970,Kirana,West,19007,Kirana_West,3038,152
+1746,Kirana,West,37549,Kirana_West,3038,152
+18075,Kirana,West,70678,Kirana_West,3038,152
+17222,Kirana,West,26906,Kirana_West,3038,152
+10902,Kirana,West,61075,Kirana_West,3038,152
+5982,Kirana,West,56441,Kirana_West,3038,152
+16314,Kirana,West,57852,Kirana_West,3038,152
+3089,Kirana,West,75705,Kirana_West,3038,152
+4522,Kirana,West,14147,Kirana_West,3038,152
+18310,Kirana,West,36471,Kirana_West,3038,152
+1079,Kirana,West,77249,Kirana_West,3038,152
+16782,Kirana,West,40419,Kirana_West,3038,152
+11041,Kirana,West,21210,Kirana_West,3038,152
+1944,Modern Trade,East,43068,Modern Trade_East,1032,52
+1447,Modern Trade,East,19931,Modern Trade_East,1032,52
+6192,Modern Trade,East,39559,Modern Trade_East,1032,52
+19041,Modern Trade,East,18804,Modern Trade_East,1032,52
+12312,Modern Trade,East,71643,Modern Trade_East,1032,52
+18786,Modern Trade,East,31886,Modern Trade_East,1032,52
+6540,Modern Trade,East,11127,Modern Trade_East,1032,52
+14065,Modern Trade,East,46461,Modern Trade_East,1032,52
+8805,Modern Trade,East,30346,Modern Trade_East,1032,52
+12504,Modern Trade,East,25586,Modern Trade_East,1032,52
+1587,Modern Trade,East,48570,Modern Trade_East,1032,52
+3775,Modern Trade,East,116914,Modern Trade_East,1032,52
+12703,Modern Trade,East,112320,Modern Trade_East,1032,52
+12143,Modern Trade,East,16404,Modern Trade_East,1032,52
+505,Modern Trade,East,25187,Modern Trade_East,1032,52
+6301,Modern Trade,East,59978,Modern Trade_East,1032,52
+6046,Modern Trade,East,73430,Modern Trade_East,1032,52
+1802,Modern Trade,East,5172,Modern Trade_East,1032,52
+17936,Modern Trade,East,12787,Modern Trade_East,1032,52
+12858,Modern Trade,East,36772,Modern Trade_East,1032,52
+1829,Modern Trade,East,29597,Modern Trade_East,1032,52
+14759,Modern Trade,East,36002,Modern Trade_East,1032,52
+14014,Modern Trade,East,53501,Modern Trade_East,1032,52
+8722,Modern Trade,East,22961,Modern Trade_East,1032,52
+13223,Modern Trade,East,49397,Modern Trade_East,1032,52
+18001,Modern Trade,East,13921,Modern Trade_East,1032,52
+5500,Modern Trade,East,31048,Modern Trade_East,1032,52
+2913,Modern Trade,East,28057,Modern Trade_East,1032,52
+12054,Modern Trade,East,73563,Modern Trade_East,1032,52
+11384,Modern Trade,East,59615,Modern Trade_East,1032,52
+13513,Modern Trade,East,12822,Modern Trade_East,1032,52
+17082,Modern Trade,East,33191,Modern Trade_East,1032,52
+14985,Modern Trade,East,73093,Modern Trade_East,1032,52
+18274,Modern Trade,East,14269,Modern Trade_East,1032,52
+16709,Modern Trade,East,10973,Modern Trade_East,1032,52
+9360,Modern Trade,East,38488,Modern Trade_East,1032,52
+18147,Modern Trade,East,66081,Modern Trade_East,1032,52
+2056,Modern Trade,East,62080,Modern Trade_East,1032,52
+1131,Modern Trade,East,12898,Modern Trade_East,1032,52
+9437,Modern Trade,East,14946,Modern Trade_East,1032,52
+12041,Modern Trade,East,22317,Modern Trade_East,1032,52
+3779,Modern Trade,East,54683,Modern Trade_East,1032,52
+18908,Modern Trade,East,96348,Modern Trade_East,1032,52
+239,Modern Trade,East,71278,Modern Trade_East,1032,52
+12016,Modern Trade,East,23109,Modern Trade_East,1032,52
+15156,Modern Trade,East,29597,Modern Trade_East,1032,52
+7660,Modern Trade,East,17294,Modern Trade_East,1032,52
+12649,Modern Trade,East,95833,Modern Trade_East,1032,52
+13685,Modern Trade,East,53899,Modern Trade_East,1032,52
+7989,Modern Trade,East,79233,Modern Trade_East,1032,52
+19268,Modern Trade,East,25642,Modern Trade_East,1032,52
+12942,Modern Trade,East,13149,Modern Trade_East,1032,52
+6204,Modern Trade,North,39856,Modern Trade_North,987,49
+2922,Modern Trade,North,22750,Modern Trade_North,987,49
+10133,Modern Trade,North,18397,Modern Trade_North,987,49
+17592,Modern Trade,North,24298,Modern Trade_North,987,49
+1732,Modern Trade,North,13853,Modern Trade_North,987,49
+7932,Modern Trade,North,48224,Modern Trade_North,987,49
+18356,Modern Trade,North,7052,Modern Trade_North,987,49
+2118,Modern Trade,North,8593,Modern Trade_North,987,49
+1245,Modern Trade,North,17594,Modern Trade_North,987,49
+10839,Modern Trade,North,95597,Modern Trade_North,987,49
+3331,Modern Trade,North,49051,Modern Trade_North,987,49
+2812,Modern Trade,North,44112,Modern Trade_North,987,49
+1364,Modern Trade,North,14817,Modern Trade_North,987,49
+1897,Modern Trade,North,53255,Modern Trade_North,987,49
+13643,Modern Trade,North,55876,Modern Trade_North,987,49
+5154,Modern Trade,North,6982,Modern Trade_North,987,49
+18039,Modern Trade,North,6017,Modern Trade_North,987,49
+6317,Modern Trade,North,11507,Modern Trade_North,987,49
+1557,Modern Trade,North,34761,Modern Trade_North,987,49
+6838,Modern Trade,North,11452,Modern Trade_North,987,49
+14835,Modern Trade,North,38780,Modern Trade_North,987,49
+6649,Modern Trade,North,71479,Modern Trade_North,987,49
+14694,Modern Trade,North,4536,Modern Trade_North,987,49
+6381,Modern Trade,North,31065,Modern Trade_North,987,49
+18353,Modern Trade,North,38691,Modern Trade_North,987,49
+7164,Modern Trade,North,44571,Modern Trade_North,987,49
+11616,Modern Trade,North,67287,Modern Trade_North,987,49
+18149,Modern Trade,North,36226,Modern Trade_North,987,49
+17999,Modern Trade,North,29512,Modern Trade_North,987,49
+16352,Modern Trade,North,4992,Modern Trade_North,987,49
+15618,Modern Trade,North,3199,Modern Trade_North,987,49
+6229,Modern Trade,North,3063,Modern Trade_North,987,49
+12327,Modern Trade,North,20695,Modern Trade_North,987,49
+12218,Modern Trade,North,14979,Modern Trade_North,987,49
+13648,Modern Trade,North,5763,Modern Trade_North,987,49
+5170,Modern Trade,North,16562,Modern Trade_North,987,49
+7601,Modern Trade,North,16218,Modern Trade_North,987,49
+16419,Modern Trade,North,30579,Modern Trade_North,987,49
+17720,Modern Trade,North,52371,Modern Trade_North,987,49
+8794,Modern Trade,North,47807,Modern Trade_North,987,49
+8935,Modern Trade,North,34557,Modern Trade_North,987,49
+383,Modern Trade,North,6691,Modern Trade_North,987,49
+574,Modern Trade,North,29696,Modern Trade_North,987,49
+15099,Modern Trade,North,12292,Modern Trade_North,987,49
+163,Modern Trade,North,53109,Modern Trade_North,987,49
+7284,Modern Trade,North,88547,Modern Trade_North,987,49
+11231,Modern Trade,North,73659,Modern Trade_North,987,49
+4219,Modern Trade,North,57688,Modern Trade_North,987,49
+8630,Modern Trade,North,72565,Modern Trade_North,987,49
+4063,Modern Trade,South,8606,Modern Trade_South,955,48
+8609,Modern Trade,South,11555,Modern Trade_South,955,48
+14427,Modern Trade,South,57326,Modern Trade_South,955,48
+15698,Modern Trade,South,48475,Modern Trade_South,955,48
+8073,Modern Trade,South,6633,Modern Trade_South,955,48
+12120,Modern Trade,South,19146,Modern Trade_South,955,48
+17236,Modern Trade,South,46265,Modern Trade_South,955,48
+11034,Modern Trade,South,18371,Modern Trade_South,955,48
+10331,Modern Trade,South,57061,Modern Trade_South,955,48
+3422,Modern Trade,South,53889,Modern Trade_South,955,48
+4186,Modern Trade,South,44694,Modern Trade_South,955,48
+11021,Modern Trade,South,85892,Modern Trade_South,955,48
+1187,Modern Trade,South,996,Modern Trade_South,955,48
+16437,Modern Trade,South,43057,Modern Trade_South,955,48
+14634,Modern Trade,South,38394,Modern Trade_South,955,48
+1478,Modern Trade,South,48380,Modern Trade_South,955,48
+18559,Modern Trade,South,21392,Modern Trade_South,955,48
+7174,Modern Trade,South,50716,Modern Trade_South,955,48
+2162,Modern Trade,South,3893,Modern Trade_South,955,48
+8396,Modern Trade,South,14089,Modern Trade_South,955,48
+9720,Modern Trade,South,18316,Modern Trade_South,955,48
+14101,Modern Trade,South,48803,Modern Trade_South,955,48
+10066,Modern Trade,South,9905,Modern Trade_South,955,48
+9967,Modern Trade,South,158108,Modern Trade_South,955,48
+400,Modern Trade,South,95246,Modern Trade_South,955,48
+13805,Modern Trade,South,49486,Modern Trade_South,955,48
+10969,Modern Trade,South,9184,Modern Trade_South,955,48
+17234,Modern Trade,South,94036,Modern Trade_South,955,48
+12866,Modern Trade,South,30902,Modern Trade_South,955,48
+710,Modern Trade,South,41876,Modern Trade_South,955,48
+19729,Modern Trade,South,32494,Modern Trade_South,955,48
+12891,Modern Trade,South,47569,Modern Trade_South,955,48
+7929,Modern Trade,South,15454,Modern Trade_South,955,48
+5686,Modern Trade,South,14333,Modern Trade_South,955,48
+1344,Modern Trade,South,23084,Modern Trade_South,955,48
+2717,Modern Trade,South,14638,Modern Trade_South,955,48
+5949,Modern Trade,South,25898,Modern Trade_South,955,48
+2752,Modern Trade,South,2017,Modern Trade_South,955,48
+8295,Modern Trade,South,12222,Modern Trade_South,955,48
+15434,Modern Trade,South,59863,Modern Trade_South,955,48
+877,Modern Trade,South,21699,Modern Trade_South,955,48
+6709,Modern Trade,South,25989,Modern Trade_South,955,48
+10854,Modern Trade,South,24407,Modern Trade_South,955,48
+13039,Modern Trade,South,20884,Modern Trade_South,955,48
+1650,Modern Trade,South,370,Modern Trade_South,955,48
+6283,Modern Trade,South,12956,Modern Trade_South,955,48
+4243,Modern Trade,South,44447,Modern Trade_South,955,48
+5116,Modern Trade,South,37874,Modern Trade_South,955,48
+3814,Modern Trade,West,38613,Modern Trade_West,978,49
+11526,Modern Trade,West,14102,Modern Trade_West,978,49
+3361,Modern Trade,West,60619,Modern Trade_West,978,49
+18927,Modern Trade,West,57034,Modern Trade_West,978,49
+1470,Modern Trade,West,24397,Modern Trade_West,978,49
+10555,Modern Trade,West,4823,Modern Trade_West,978,49
+16242,Modern Trade,West,14356,Modern Trade_West,978,49
+11663,Modern Trade,West,3456,Modern Trade_West,978,49
+12668,Modern Trade,West,33404,Modern Trade_West,978,49
+3081,Modern Trade,West,19078,Modern Trade_West,978,49
+18157,Modern Trade,West,9438,Modern Trade_West,978,49
+1509,Modern Trade,West,10406,Modern Trade_West,978,49
+11190,Modern Trade,West,7018,Modern Trade_West,978,49
+4557,Modern Trade,West,12866,Modern Trade_West,978,49
+16056,Modern Trade,West,3655,Modern Trade_West,978,49
+8846,Modern Trade,West,33487,Modern Trade_West,978,49
+1725,Modern Trade,West,55244,Modern Trade_West,978,49
+12252,Modern Trade,West,73677,Modern Trade_West,978,49
+17853,Modern Trade,West,50387,Modern Trade_West,978,49
+6117,Modern Trade,West,38873,Modern Trade_West,978,49
+1860,Modern Trade,West,20357,Modern Trade_West,978,49
+1987,Modern Trade,West,17278,Modern Trade_West,978,49
+17707,Modern Trade,West,34036,Modern Trade_West,978,49
+6470,Modern Trade,West,97335,Modern Trade_West,978,49
+10952,Modern Trade,West,8726,Modern Trade_West,978,49
+12936,Modern Trade,West,47270,Modern Trade_West,978,49
+16418,Modern Trade,West,61094,Modern Trade_West,978,49
+17689,Modern Trade,West,5004,Modern Trade_West,978,49
+7696,Modern Trade,West,60843,Modern Trade_West,978,49
+5882,Modern Trade,West,6515,Modern Trade_West,978,49
+597,Modern Trade,West,33674,Modern Trade_West,978,49
+689,Modern Trade,West,67894,Modern Trade_West,978,49
+9698,Modern Trade,West,55622,Modern Trade_West,978,49
+4968,Modern Trade,West,52691,Modern Trade_West,978,49
+11203,Modern Trade,West,36943,Modern Trade_West,978,49
+10981,Modern Trade,West,87274,Modern Trade_West,978,49
+19615,Modern Trade,West,20086,Modern Trade_West,978,49
+18025,Modern Trade,West,6889,Modern Trade_West,978,49
+19179,Modern Trade,West,43092,Modern Trade_West,978,49
+9472,Modern Trade,West,25340,Modern Trade_West,978,49
+6313,Modern Trade,West,117128,Modern Trade_West,978,49
+6226,Modern Trade,West,89224,Modern Trade_West,978,49
+5695,Modern Trade,West,15831,Modern Trade_West,978,49
+4127,Modern Trade,West,74188,Modern Trade_West,978,49
+13488,Modern Trade,West,72817,Modern Trade_West,978,49
+11860,Modern Trade,West,12295,Modern Trade_West,978,49
+15484,Modern Trade,West,18996,Modern Trade_West,978,49
+2355,Modern Trade,West,55346,Modern Trade_West,978,49
+12520,Modern Trade,West,5552,Modern Trade_West,978,49
+2626,Wholesale,East,63122,Wholesale_East,248,12
+325,Wholesale,East,102727,Wholesale_East,248,12
+14367,Wholesale,East,16315,Wholesale_East,248,12
+7316,Wholesale,East,15430,Wholesale_East,248,12
+12512,Wholesale,East,46970,Wholesale_East,248,12
+19812,Wholesale,East,57586,Wholesale_East,248,12
+15329,Wholesale,East,16485,Wholesale_East,248,12
+8930,Wholesale,East,111721,Wholesale_East,248,12
+479,Wholesale,East,70782,Wholesale_East,248,12
+19129,Wholesale,East,52814,Wholesale_East,248,12
+18951,Wholesale,East,44212,Wholesale_East,248,12
+19141,Wholesale,East,3364,Wholesale_East,248,12
+2409,Wholesale,North,18457,Wholesale_North,274,14
+13136,Wholesale,North,41613,Wholesale_North,274,14
+15290,Wholesale,North,70131,Wholesale_North,274,14
+9972,Wholesale,North,58621,Wholesale_North,274,14
+19509,Wholesale,North,89427,Wholesale_North,274,14
+17747,Wholesale,North,18655,Wholesale_North,274,14
+19249,Wholesale,North,60726,Wholesale_North,274,14
+15780,Wholesale,North,8354,Wholesale_North,274,14
+19208,Wholesale,North,45457,Wholesale_North,274,14
+16951,Wholesale,North,24557,Wholesale_North,274,14
+5578,Wholesale,North,15426,Wholesale_North,274,14
+11951,Wholesale,North,101396,Wholesale_North,274,14
+17424,Wholesale,North,2318,Wholesale_North,274,14
+19320,Wholesale,North,7443,Wholesale_North,274,14
+1828,Wholesale,South,60109,Wholesale_South,239,12
+523,Wholesale,South,73227,Wholesale_South,239,12
+7701,Wholesale,South,17557,Wholesale_South,239,12
+9118,Wholesale,South,21709,Wholesale_South,239,12
+8697,Wholesale,South,42983,Wholesale_South,239,12
+14250,Wholesale,South,31123,Wholesale_South,239,12
+16887,Wholesale,South,9778,Wholesale_South,239,12
+6863,Wholesale,South,60061,Wholesale_South,239,12
+844,Wholesale,South,53142,Wholesale_South,239,12
+12213,Wholesale,South,47261,Wholesale_South,239,12
+3697,Wholesale,South,65245,Wholesale_South,239,12
+17090,Wholesale,South,17839,Wholesale_South,239,12
+9769,Wholesale,West,7663,Wholesale_West,238,12
+1371,Wholesale,West,59199,Wholesale_West,238,12
+18167,Wholesale,West,10542,Wholesale_West,238,12
+11283,Wholesale,West,43847,Wholesale_West,238,12
+489,Wholesale,West,74467,Wholesale_West,238,12
+14532,Wholesale,West,2298,Wholesale_West,238,12
+676,Wholesale,West,18115,Wholesale_West,238,12
+18913,Wholesale,West,4374,Wholesale_West,238,12
+9198,Wholesale,West,18856,Wholesale_West,238,12
+18821,Wholesale,West,9850,Wholesale_West,238,12
+16114,Wholesale,West,30697,Wholesale_West,238,12
+12214,Wholesale,West,13295,Wholesale_West,238,12
